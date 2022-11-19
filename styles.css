@@ -305,7 +305,7 @@ footer .attribution {
 @media screen and (max-width: 29em) { 
 
   body {
-    /* font-family: sans-serif; */
+
     height: 100vh;
   }
   
@@ -459,7 +459,6 @@ left: 35%;
 }
 
 .footer-about-links > div {
-  border: 2px solid red;
   margin-bottom: 3rem;
 }
 
@@ -470,6 +469,4 @@ left: 35%;
   font-weight: 600;
 }
 
-
-/* end of block */
 }
